@@ -905,7 +905,8 @@ body {
         display: none; 
     }
     .columna_clara_contenido {
-        margin-left: 0;
+        align-items: center;
+        text-align: center;
     }
     .descripcion_clara {
         width: 90%;
@@ -992,6 +993,11 @@ body {
     
     .btn-footer-crema, .btn-footer-marron {
         width: 100%;
+    }
+    .galeriacafe {
+        display: grid;
+        grid-template-columns: 1fr;
+        justify-content: center;
     }
 }
 
