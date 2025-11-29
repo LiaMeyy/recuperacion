@@ -705,6 +705,10 @@ body {
         flex-basis: 50%; 
         padding-left: 5%;
     }
+    .visit-us h1 {
+        width: 440px;
+        padding-left: 5%;
+    }
     .Morning h1{
         width: 380px;}
     .galeriacafe img {
@@ -756,7 +760,7 @@ body {
         padding-left: 0;
     }
     .visit-us h1{
-        width: 400px;
+        width: 450px;
     }
     .Morning h1{
         width: 370px;
